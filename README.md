@@ -1,16 +1,41 @@
-## Hi there 👋
+# Rayen | Industrial Computer Engineering Student (first year)
 
-<!--
-**rayenabid406/rayenabid406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bare-Metal STM32 | TinyML | IoT | ESP32**
 
-Here are some ideas to get you started:
+I build **low-level embedded systems** where performance, memory, and real deployment matter.  
+My focus is on **bare-metal STM32 development**, **TinyML on microcontrollers**, and **end-to-end IoT pipelines** — from raw data to on-device inference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in making ML models **actually run on constrained hardware**.
+
+---
+
+## Core Skills
+- **Bare-metal STM32** (register-level, no OS)
+- **TinyML**: TensorFlow Lite Micro, EloquentTinyML, INT8 quantization
+- **ESP32** (real-time audio, I2S, edge inference)
+- **IoT pipelines**: data → training → conversion → firmware → device
+- **MATLAB** for signal processing & prototyping
+- **C / C++ / Python**
+- PCB design fundamentals (**Altium Designer – learning in progress**)
+
+---
+
+## Engineering Mindset
+- Hardware-aware ML
+- Memory- and latency-first design
+- Clean, deployable systems — not demos
+
+---
+
+## 🎯 Looking For
+**Embedded Systems / TinyML Internship (EU – Italy preferred)**  
+Hands-on roles involving firmware, embedded AI, or intelligent edge devices.
+
+📫 Open to collaboration and technical challenges.
+## 📫 Contact
+
+- 📧 Email: rayen.abid860@gmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/your-linkedin-username ](https://www.linkedin.com/in/rayen-abid-133382384/) 
+- 🌍 Location: Tunisia — open to EU / Italy internships  
+
+
