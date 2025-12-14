@@ -5,7 +5,7 @@
 I build **low-level embedded systems** where performance, memory, and real deployment matter.  
 My focus is on **bare-metal STM32 development**, **TinyML on microcontrollers**, and **end-to-end IoT pipelines** — from raw data to on-device inference.
 
-I specialize in making ML models **actually run on constrained hardware**.
+I specialize in making ML models **actually run on constrained hardware** and stm32 Bare Metal programming.
 
 ---
 
