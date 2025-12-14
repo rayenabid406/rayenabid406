@@ -13,7 +13,7 @@ I specialize in making ML models **actually run on constrained hardware** and st
 - **Bare-metal STM32** (register-level, no OS)
 - **TinyML**: TensorFlow Lite Micro, EloquentTinyML, INT8 quantization
 - **ESP32** (real-time audio, I2S, edge inference)
-- **IoT pipelines**: data → training → conversion → firmware → device
+- **IoT + Tiny Ml pipelines**: data → training → conversion → firmware → device
 - **MATLAB** for signal processing & prototyping
 - **C / C++ / Python**
 - PCB design fundamentals (**Altium Designer – learning in progress**)
