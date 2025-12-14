@@ -35,7 +35,7 @@ Hands-on roles involving firmware, embedded AI, or intelligent edge devices.
 ## 📫 Contact
 
 - 📧 Email: rayen.abid860@gmail.com
-- 💼 LinkedIn: [https://www.linkedin.com/in/your-linkedin-username ](https://www.linkedin.com/in/rayen-abid-133382384/) 
+- 💼 LinkedIn: https://www.linkedin.com/in/rayen-abid-133382384/
 - 🌍 Location: Tunisia — open to EU / Italy internships  
 
 
