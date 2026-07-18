@@ -24,7 +24,20 @@ I specialize in industrial automation architectures, low-level network engineeri
 
 ---
 
-### Featured Industrial Projects
-*   **[TIA-Portal-Modbus-TCP-Simulation](https://github.com/rayenabid406/TIA-Portal-Modbus-TCP-Simulation):** Bi-directional Modbus TCP/IP architecture between two S7-1500 PLCs with autonomous fault-recovery logic.
-*   **[Automated_Pumping_Station](https://github.com/rayenabid406/Automated_Pumping_Station-):** Integrated control logic for automated pump motor power-link management.
-*   **[Simatic-WinCC-GasUnit-HMI](https://github.com/rayenabid406/Simatic-WinCC-GasUnit-HMI):** HMI supervision interface for gas unit monitoring and control.
+### Featured Projects
+
+**Industrial Automation**
+- **[TIA-Portal-Modbus-TCP-Simulation](https://github.com/rayenabid406/TIA-Portal-Modbus-TCP-Simulation):** Bi-directional Modbus TCP/IP architecture between two S7-1500 PLCs with autonomous fault-recovery logic.
+- **[Automated_Pumping_Station](https://github.com/rayenabid406/Automated_Pumping_Station-):** Integrated control logic for automated pump motor power-link management.
+- **[Simatic-WinCC-GasUnit-HMI](https://github.com/rayenabid406/Simatic-WinCC-GasUnit-HMI):** HMI supervision interface for gas unit monitoring and control.
+
+**Embedded Systems & IoT**
+- **[Smart-Room-Monitor](https://github.com/rayenabid406/Smart-Room-Monitor):** Real-time smart room monitoring system (Arduino, STM32, Python) — live sensor data visualized in a PyQt GUI, with UART-triggered hardware warning LEDs.
+- **[Home-Protection-Supervision](https://github.com/rayenabid406/Home-Protection-Supervision):** Home security/protection supervision system.
+
+**TinyML & Embedded AI**
+- **[MNIST-digit-classification-model](https://github.com/rayenabid406/MNIST-digit-classification-model):** Minimal TensorFlow Lite Micro (TinyML) implementation of MNIST digit classification on constrained hardware.
+- **[keyword_Recognition](https://github.com/rayenabid406/keyword_Recognition):** ESP32 voice command recognition using TensorFlow Lite.
+
+**Robotics**
+- **[Line-Follower-Serpent-V.1.0-](https://github.com/rayenabid406/Line-Follower-Serpent-V.1.0-):** PID-controlled line follower robot..
