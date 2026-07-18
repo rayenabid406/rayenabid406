@@ -1,41 +1,30 @@
-# Rayen | Industrial Computer Engineering Student (first year)
+# Rayen Abid | Industrial Informatics & Automation Engineering
 
-**Bare-Metal STM32 | TinyML | IoT | ESP32**
+I specialize in industrial automation architectures, low-level network engineering, and PLC logic design. I bridge the gap between embedded hardware and large-scale industrial systems.
 
-I build **low-level embedded systems** where performance, memory, and real deployment matter.  
-My focus is on **bare-metal STM32 development**, **TinyML on microcontrollers**, and **end-to-end IoT pipelines** — from raw data to on-device inference.
+### Core Engineering Focus
+*   **Industrial Automation:** PLC logic design (S7-1500), Modbus TCP/IP network integration, and system-level fault tolerance.
+*   **Embedded Systems:** Bare-metal STM32 development, ESP32 real-time data acquisition, and TinyML deployment on resource-constrained hardware.
+*   **Industrial Informatics:** HMI development (Simatic WinCC), automated control strategies, and data network engineering for power/industrial plants.
+*   **Development Stack:** C/C++, Python, MATLAB, TIA Portal (v17/18), and Git/GitHub version control.
 
-I specialize in making ML models **actually run on constrained hardware** and stm32 Bare Metal programming.
+### Engineering Mindset
+*   **Deterministic Design:** Prioritizing latency-first, reliable architectures for industrial environments.
+*   **Autonomous Systems:** Engineering self-healing control routines and automated error-trapping protocols.
+*   **Documentation-Driven Development:** Creating professional, production-ready repositories with clear architectural mapping and visual proof-of-work.
 
----
+### 🎯 Current Focus
+*   **Industrial Field Placement:** Currently executing specialized training in automation systems at the Amilcar Petroleum Operations plant.
+*   **Technical Portfolio:** Continuously building out high-impact projects in PLC network integration, automated pumping stations, and industrial HMI supervision.
 
-## Core Skills
-- **Bare-metal STM32** (register-level, no OS)
-- **TinyML**: TensorFlow Lite Micro, EloquentTinyML, INT8 quantization
-- **ESP32** (real-time audio, I2S, edge inference)
-- **IoT + Tiny Ml pipelines**: data → training → conversion → firmware → device
-- **MATLAB** for signal processing & prototyping
-- **C / C++ / Python**
-- PCB design fundamentals (**Altium Designer – learning in progress**)
-
----
-
-## Engineering Mindset
-- Hardware-aware ML
-- Memory- and latency-first design
-- Clean, deployable systems — not demos
+### 📫 Contact & Connections
+*   📧 **Email:** rayen.abid860@gmail.com
+*   💼 **LinkedIn:** [linkedin.com/in/rayen-abid-133382384](https://www.linkedin.com/in/rayen-abid-133382384/)
+*   🌍 **Location:** Tunisia | Open to international industrial engineering placements and postgraduate research opportunities.
 
 ---
 
-## 🎯 Looking For
-**Embedded Systems / TinyML Internship (EU – Italy preferred)**  
-Hands-on roles involving firmware, embedded AI, or intelligent edge devices.
-
-📫 Open to collaboration and technical challenges.
-## 📫 Contact
-
-- 📧 Email: rayen.abid860@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/rayen-abid-133382384/
-- 🌍 Location: Tunisia — open to EU / Italy internships  
-
-
+### Featured Industrial Projects
+*   **[TIA-Portal-Modbus-TCP-Simulation](https://github.com/rayenabid406/TIA-Portal-Modbus-TCP-Simulation):** Bi-directional Modbus TCP/IP architecture between two S7-1500 PLCs with autonomous fault-recovery logic.
+*   **[Automated_Pumping_Station](https://github.com/rayenabid406/Automated_Pumping_Station-):** Integrated control logic for automated pump motor power-link management.
+*   **[Simatic-WinCC-GasUnit-HMI](https://github.com/rayenabid406/Simatic-WinCC-GasUnit-HMI):** HMI supervision interface for gas unit monitoring and control.
