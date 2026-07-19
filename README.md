@@ -1,8 +1,8 @@
 # Rayen Abid | Industrial Informatics & Automation Engineering
 
-I specialize in industrial automation architectures, low-level network engineering, and PLC logic design. I bridge the gap between embedded hardware and large-scale industrial systems.
+Industrial Computer Engineering student at ENETCOM, second year. Currently on industrial placement at Amilcar Petroleum Operations. Building embedded systems, 
+industrial automation (PLC/HMI), and TinyML projects
 
-### Core Engineering Focus
 *   **Industrial Automation:** PLC logic design (S7-1500), Modbus TCP/IP network integration, and system-level fault tolerance.
 *   **Embedded Systems:** Bare-metal STM32 development, ESP32 real-time data acquisition, and TinyML deployment on resource-constrained hardware.
 *   **Industrial Informatics:** HMI development (Simatic WinCC), automated control strategies, and data network engineering for power/industrial plants.
