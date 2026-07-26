@@ -1,9 +1,12 @@
 # Rayen Abid | Industrial Computer Engineering Student
 
 I'm an engineering student specializing in Industrial Informatics & Automation, 
-currently starting my internship at Amilcar Petroleum Operations. I came from 
-two years of prépa (math/physics), and have been building hands-on skills in 
-embedded systems and industrial automation since December 2025.
+currently starting my internship at Amilcar Petroleum Operations. 
+
+I came from two years of prépa (French-system math/physics-intensive 
+preparatory studies for engineering school), and have been building 
+hands-on skills in embedded systems and industrial automation since 
+November 2025.
 
 ### What I'm working with
 
